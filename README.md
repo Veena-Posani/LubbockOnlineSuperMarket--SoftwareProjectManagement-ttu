@@ -2,7 +2,7 @@
 
 CS5363-Spring2023-Project
 
-# Lubbock Supermarket (LS) Project Description:
+## Lubbock Supermarket (LS) Project Description:
 The owners (Alice and Bob) running LS believe online sales offer an opportunity to help them earn profit and not lose their loyal customers. However, their knowledge of technology is limited to using their smartphones, surfing the Web, using email, and keeping up with friends and some customers on a popular social networking site. Bob feels that LS needs to hire someone to build a custom application system, but neither he nor Alice has the knowledge and skills to develop and maintain their own system. On the other hand, Alice has researched several online sales software systems designed specifically for supermarkets. Some software packages can be purchased and installed on a workstation, while others are subscription-based and hosted by a third party through the Web. Alice and Bob are willing to spend the time, money, and resources for this project only if they believe LS receives a reasonable return on this investment. They have stated that anything you recommend must pay for itself and provide tangible benefits; otherwise, they will be reluctant to provide online sales.
 Alice and Bob have asked your team to develop a viable solution to help them manage their business. Over the project, your team will play the role of consultants or developers who have been hired by LS. Each case assignment will take your team through various situations that might happen on a real project. You will plan, organize, and manage your project throughout the life cycle.
 Assignment:
