@@ -33,27 +33,27 @@ The following is a suggested outline for developing your business case. Because 
    - Set a time frame for achieving the MOV.
    - Summarize the MOV in a clear, concise statement or table.
 2. A comparison of alternatives - To keep things simple, you may consider only three alternatives for your client: maintain the status quo (i.e., do nothing), purchase a software package, or build a custom system.
-   a. Estimate the total cost of ownership (TCO): Provide your references (e.g., a website) when the cost is estimated. Keep in mind that the total cost of ownership should include the 
+   - Estimate the total cost of ownership (TCO): Provide your references (e.g., a website) when the cost is estimated. Keep in mind that the total cost of ownership should include the 
       following:
-       All direct or upfront costs
-       Indirect costs
-       Ongoing support and maintenance costs
-   b. Develop total benefits of ownership (TBO) - Total benefits of ownership should include all of the direct, indirect, and ongoing benefits for each proposed alternative. Provide 
+      - All direct or upfront costs
+      - Indirect costs
+      - Ongoing support and maintenance costs
+   - Develop total benefits of ownership (TBO) - Total benefits of ownership should include all of the direct, indirect, and ongoing benefits for each proposed alternative. Provide 
       your team’s justification when you decide on the benefits of ownership. It should focus on the following:
-       Increasing high-value work
-       Improving accuracy and efficiency
-       Improved decision making
-       Improving customer service
+      - Increasing high-value work
+      - Improving accuracy and efficiency
+      - Improved decision making
+      - Improving customer service
 3. Decide a recommendation – Now, you are ready to make a recommendation to your client and support it. Given the limited amount of information and time, you should still be confident that your recommendation provides the best value to the organization and that the benefits outweigh the costs. Be sure that you not only recommend one of the three alternatives but that you also provide support based on your analysis to back it up. The client will make a decision on whether to continue to the next phase of the project.
    
 ## Project Part 2:
 The owners of LS have decided that building an online shopping system will provide the most value to LS. Your team has been asked to continue with the project and develop this system. (See Textbook pp. 112 – Q4, Q5, Q6)
 1. A list of the resources needed to complete the project.
    This should include:
-   a. People (and their roles)
-   b. Technology
-   c. Facilities
-   d. Other—For example, travel, training, and so on.
+   - People (and their roles)
+   - Technology
+   - Facilities
+   - Other—For example, travel, training, and so on.
 3. An estimate for the cost of each resource.
 4. Since you will be paid for your work with LS, decide which contract makes the most sense
 for you and your client.
