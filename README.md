@@ -27,11 +27,11 @@ Alice and Bob have asked your team to develop a viable solution to help them man
 
 The following is a suggested outline for developing your business case. Because this is a fictitious case, you will not be able to meet with your client. Subsequently, you will have to make several assumptions about your project if you need them.
 1. Measurable organizational value (MOV)
-   a. Identify the desired area of impact.
-   b. Identify the desired value of the project.
-   c. Develop an appropriate metric.
-   d. Set a time frame for achieving the MOV.
-   e. Summarize the MOV in a clear, concise statement or table.
+   - Identify the desired area of impact.
+   - Identify the desired value of the project.
+   - Develop an appropriate metric.
+   - Set a time frame for achieving the MOV.
+   - Summarize the MOV in a clear, concise statement or table.
 2. A comparison of alternatives - To keep things simple, you may consider only three alternatives for your client: maintain the status quo (i.e., do nothing), purchase a software package, or build a custom system.
    a. Estimate the total cost of ownership (TCO): Provide your references (e.g., a website) when the cost is estimated. Keep in mind that the total cost of ownership should include the 
       following:
